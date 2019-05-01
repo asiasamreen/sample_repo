@@ -1,0 +1,2 @@
+this is my second file.
+the command to forefully remove the files and directories is rm -rf "filename/dir name"/
